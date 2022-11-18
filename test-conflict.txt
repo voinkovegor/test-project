@@ -1,0 +1,5 @@
+one string in main local branch
+
+
+
+fifth line in conflict branch
