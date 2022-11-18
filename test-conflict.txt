@@ -2,4 +2,8 @@ one string in main local branch
 
 
 
+<<<<<<< HEAD
 create 5 line in main branch
+=======
+fifth line in conflict branch
+>>>>>>> conflict
